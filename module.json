@@ -1,0 +1,15 @@
+{
+  "id": "pfsociety",
+  "title": "Pathfinder Society Helper",
+  "description": "A module to help quickstart players and DM's to PFS games.",
+  "authors": [
+    {
+    "name": "Samir Sardinha"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
